@@ -7,7 +7,7 @@
 - 1957년에 프랑크 로젠블라트가 퍼셉트론을 고안했다.
 - 사람의 뇌의 동작을 전기 스위치 on/off 로 흉내낼 수 있다는 이론을 증명
 
-<img width="30%" src="https://user-images.githubusercontent.com/87109907/144737042-c6779b3e-98b0-47e3-a87f-e0a927c698f1.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/87109907/144737042-c6779b3e-98b0-47e3-a87f-e0a927c698f1.png"/>
 
 
 ### 단순 논리회로
@@ -15,9 +15,6 @@
 1. AND 게이트
 2. OR 게이트
 3. NOT AND 게이트
-
-------------------------------------------------------------------------------------------------------------------------------
-
 4. XOR 게이트
 
 <img width="30%" src="https://user-images.githubusercontent.com/87109907/144737092-466118b5-2dea-45ad-ae58-da4003f4cede.png"/>
