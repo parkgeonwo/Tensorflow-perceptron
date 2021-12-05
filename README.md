@@ -17,7 +17,7 @@
 3. NOT AND 게이트
 4. XOR 게이트
 
-<img width="30%" src="https://user-images.githubusercontent.com/87109907/144737092-466118b5-2dea-45ad-ae58-da4003f4cede.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/87109907/144737092-466118b5-2dea-45ad-ae58-da4003f4cede.png"/>
 
 
 ### AND 게이트
